@@ -14,4 +14,4 @@ while myguess != answer:
 
 print('Congragulations on Answering Correctly')
 
-print ('You Win a Bad of Dicks')
+print ('You Win a Bag of Dicks')
